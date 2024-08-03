@@ -93,4 +93,7 @@
     <data name="MailgunApi_WebhookAuthentication_Failed" xml:space="preserve">
         <value>Mailgun.Authentication.Failed</value>
     </data>
+    <data name="ChargebeeApi_WebhookAuthentication_Failed" xml:space="preserve">
+        <value>Chargebee.Authentication.Failed</value>
+    </data>
 </root>
